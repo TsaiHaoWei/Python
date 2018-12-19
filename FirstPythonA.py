@@ -1,6 +1,11 @@
-
 '''
-
+continue , break用迴圈
+for i in range(7):
+    if i==3:
+        continue
+    if i==6:
+        break
+    print(i)
 =============================================================
 9*9成法表
 for Zx in range(1,10):
@@ -20,7 +25,9 @@ for x in range(1,10,2):
 Heigh = float(input("輸入你的身高"))
 Weight = int(input("輸入你的體重"))
 BMI = float(Weight/(Heigh/100*Heigh/100))
-print(BMI)
+print("%.2f"%BMI)
+print("%.4e"%BMI)
+print("%.4g"%BMI)
 if BMI <18.5:
     print("過輕")
 elif BMI <24.9:
