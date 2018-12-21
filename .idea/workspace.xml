@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="10fe0ac1-4ccd-4fb5-9936-9a364e0edecb" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="2c4a57ae-5f6c-4ad0-a93b-4d00e29fdba8" name="Default Changelist" comment="" />
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
 =======
     <list default="true" id="2c4a57ae-5f6c-4ad0-a93b-4d00e29fdba8" name="Default Changelist" comment="" />
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
@@ -14,6 +18,7 @@
   </component>
   <component name="FileEditorManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonB.py">
@@ -21,6 +26,8 @@
             <state relative-caret-position="160">
               <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FirstPythonA.py">
@@ -34,6 +41,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="29">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
             </state>
           </provider>
@@ -49,6 +59,7 @@
     </option>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -63,6 +74,8 @@
     <option name="height" value="820" />
   </component>
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
   <component name="FindInProjectRecents">
     <findStrings>
       <find>format</find>
@@ -92,6 +105,9 @@
     <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -106,11 +122,17 @@
               <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
           </expand>
           <select />
@@ -120,6 +142,12 @@
     </panes>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/FirstPython.py" />
+  </component>
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
 =======
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/FirstPython.py" />
@@ -138,9 +166,12 @@
     </option>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="PythonB" type="PythonConfigurationType" factoryName="Python" temporary="true">
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
   <component name="RunManager" selected="Python.FirstPython">
     <configuration name="A" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
@@ -164,6 +195,9 @@
       <method v="2" />
     </configuration>
     <configuration name="FirstPython" type="PythonConfigurationType" factoryName="Python" temporary="true">
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,8 +211,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonB.py" />
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FirstPython.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -222,6 +259,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e.py" />
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -234,12 +274,18 @@
     <recent_temporary>
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <item itemvalue="Python.PythonB" />
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
         <item itemvalue="Python.FirstPython" />
         <item itemvalue="Python.FirstPythonA" />
         <item itemvalue="Python.A" />
         <item itemvalue="Python.e" />
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
       </list>
     </recent_temporary>
@@ -250,22 +296,29 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <changelist id="10fe0ac1-4ccd-4fb5-9936-9a364e0edecb" name="Default Changelist" comment="" />
       <created>1545390694803</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545390694803</updated>
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
       <changelist id="2c4a57ae-5f6c-4ad0-a93b-4d00e29fdba8" name="Default Changelist" comment="" />
       <created>1545044911964</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545044911964</updated>
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <frame x="312" y="1" width="1052" height="820" extended-state="0" />
     <editor active="true" />
@@ -281,6 +334,8 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32994187" />
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -290,17 +345,26 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992948" visible="true" weight="0.35531628" />
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4992658" weight="0.32896653" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50070524" side_tool="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -309,11 +373,14 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/PythonB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
 =======
+=======
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
     <entry file="file://$PROJECT_DIR$/d.py" />
     <entry file="file://$PROJECT_DIR$/c.py" />
     <entry file="file://$PROJECT_DIR$/a (2).py" />
@@ -333,6 +400,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+<<<<<<< HEAD
+>>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
+=======
 >>>>>>> d5664cf44612cf6b4558ae2462cb782d2e9d3387
         </state>
       </provider>
