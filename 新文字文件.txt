@@ -1,0 +1,4 @@
+Python
+https://www.python.org/downloads/
+¦w¸Ë Anaconda
+https://www.anaconda.com/download/
