@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 123
+=======
+Python
+https://www.python.org/downloads/
+¦w¸Ë Anaconda
+https://www.anaconda.com/download/
+>>>>>>> 63e9ed01119b06818788eab0367fb01b2b955279
